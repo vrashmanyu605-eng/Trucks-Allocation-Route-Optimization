@@ -1,0 +1,39 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# ---- Virtual Env ----
+venv/
+.env/
+.env*/ 
+.venv/
+
+# ---- Notebooks ----
+*.ipynb_checkpoints/
+
+# ---- Model / Artifacts ----
+*.pkl
+*.pt
+*.bin
+
+# ---- Data Files ----
+*.csv
+*.xlsx
+*.xls
+
+# ---- Your Specific Files ----
+profit_prediction_model.pkl
+data_analysis.ipynb
+algo.py
+d.py
+data_test.py
+DO_DUMP.csv
+LR_DETAILS.csv
+synthetic_data.py
+truck_allocation.py
+vol.py
+synthetic_data.pytruck_allocation.py   # in case this accidental merged filename exists
+settings.json
