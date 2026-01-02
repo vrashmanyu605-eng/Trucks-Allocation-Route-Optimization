@@ -507,13 +507,6 @@ class OptimizationEngine:
         # However, we have 1000 DOs, but let's see how many are pending
         logger.info(f"Starting optimization: {len(pending_dos)} DOs, {len(available_vehicles)} vehicles")
         
-        # Limit to top N high priority/earliest DOs if the list is too large for CBC to solve quickly
-        if len(pending_dos) > 50:
-             logger.warning("Large number of DOs. Limiting to top 50 high priority/urgent DOs for optimization stability.")
-             # Sort by priority and deadline
-             prio_map = {'Critical': 0, 'High': 1, 'Medium': 2, 'Normal': 3, 'Low': 4}
-             pending_dos = sorted(pending_dos, key=lambda x: (prio_map.get(x['Priority_Level'], 5), x['Delivery_Deadline']))[:50]
-
         # Create optimization problem
         prob = LpProblem("Fleet_Allocation", LpMaximize)
         
