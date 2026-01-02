@@ -1,0 +1,46 @@
+Vehicle_ID,Vehicle_Number,Vehicle_Type,Capacity_Tons,Ownership_Type,Current_Location,Availability_Status,Driver_Assigned
+VEH-1001,MH-21-CB-4889,Covered,19,Owned,"Chennai, Tamil Nadu",Available,Driver-1015
+VEH-1002,GJ-55-CA-7857,Open,21,Attached,Tata Steel Jamshedpur,Driver Rest,Driver-1077
+VEH-1003,UP-18-CA-6570,Trailer,32,Market,"Indore, Madhya Pradesh",Driver Rest,Driver-1025
+VEH-1004,WB-57-BA-9691,Flatbed,18,Owned,"Pune, Maharashtra",On Trip,Driver-1072
+VEH-1005,GJ-94-AB-1889,LCV,28,Attached,Bhilai Steel Plant,Available,Driver-1060
+VEH-1006,HR-63-BB-9224,HCV,32,Market,Tata Steel Jamshedpur,Driver Rest,Driver-1082
+VEH-1007,TN-92-BA-4633,Covered,28,Owned,Rourkela Steel Plant,Under Maintenance,Driver-1083
+VEH-1008,WB-23-BB-5138,Open,32,Attached,Bhilai Steel Plant,Available,Driver-1043
+VEH-1009,WB-35-BB-1759,Trailer,16,Market,"Coimbatore, Tamil Nadu",Available,Driver-1077
+VEH-1010,UP-62-CB-5888,Flatbed,16,Owned,"Lucknow, Uttar Pradesh",Available,Driver-1027
+VEH-1011,WB-75-CB-9837,LCV,16,Attached,"Surat, Gujarat",Available,Driver-1059
+VEH-1012,UP-61-AB-9662,HCV,18,Market,"Jaipur, Rajasthan",On Trip,Driver-1084
+VEH-1013,GJ-48-CA-6345,Covered,32,Owned,Tata Steel Jamshedpur,Available,Driver-1059
+VEH-1014,UP-76-CA-6552,Open,25,Attached,Visakhapatnam Steel,Driver Rest,Driver-1081
+VEH-1015,GJ-21-AA-7864,Trailer,25,Market,Tata Steel Jamshedpur,Driver Rest,Driver-1076
+VEH-1016,HR-86-BB-2805,Flatbed,18,Owned,"Coimbatore, Tamil Nadu",Driver Rest,Driver-1051
+VEH-1017,UP-11-CA-1542,LCV,25,Attached,Bhilai Steel Plant,Available,Driver-1031
+VEH-1018,HR-68-AA-3870,HCV,21,Market,"Mumbai, Maharashtra",Under Maintenance,Driver-1036
+VEH-1019,GJ-37-BA-7250,Covered,28,Owned,Visakhapatnam Steel,Under Maintenance,Driver-1043
+VEH-1020,KA-10-AA-3926,Open,16,Attached,"Chennai, Tamil Nadu",On Trip,Driver-1039
+VEH-1021,UP-94-BA-4521,Trailer,21,Market,Tata Steel Jamshedpur,Available,Driver-1020
+VEH-1022,MH-68-BA-5073,Flatbed,16,Owned,Visakhapatnam Steel,Under Maintenance,Driver-1073
+VEH-1023,KA-61-CB-1963,LCV,18,Attached,"Ahmedabad, Gujarat",Driver Rest,Driver-1001
+VEH-1024,UP-47-AB-7151,HCV,19,Market,Bhilai Steel Plant,Under Maintenance,Driver-1006
+VEH-1025,RJ-55-AB-7961,Covered,19,Owned,"Surat, Gujarat",Available,Driver-1090
+VEH-1026,KA-57-BA-1266,Open,18,Attached,"Ahmedabad, Gujarat",Under Maintenance,Driver-1066
+VEH-1027,UP-25-BA-8401,Trailer,21,Market,Delhi NCR,Under Maintenance,Driver-1036
+VEH-1028,TN-62-AB-4237,Flatbed,18,Owned,Delhi NCR,Driver Rest,Driver-1005
+VEH-1029,TN-61-BB-9666,LCV,21,Attached,"Chennai, Tamil Nadu",Available,Driver-1017
+VEH-1030,RJ-84-BA-8939,HCV,32,Market,Visakhapatnam Steel,On Trip,Driver-1096
+VEH-1031,WB-42-AB-9592,Covered,21,Owned,Visakhapatnam Steel,On Trip,Driver-1053
+VEH-1032,UP-11-BB-7831,Open,21,Attached,Durgapur Steel,Driver Rest,Driver-1073
+VEH-1033,TN-32-AB-6648,Trailer,21,Market,Bhilai Steel Plant,On Trip,Driver-1028
+VEH-1034,RJ-80-CB-8822,Flatbed,32,Owned,"Ahmedabad, Gujarat",Driver Rest,Driver-1091
+VEH-1035,KA-67-CA-4068,LCV,19,Attached,"Jaipur, Rajasthan",Available,Driver-1039
+VEH-1036,HR-41-BA-9604,HCV,18,Market,Kolkata Steel Depot,Under Maintenance,Driver-1078
+VEH-1037,MH-22-BA-4279,Covered,25,Owned,"Surat, Gujarat",On Trip,Driver-1098
+VEH-1038,HR-29-AB-7593,Open,16,Attached,Tata Steel Jamshedpur,Available,Driver-1009
+VEH-1039,GJ-48-AA-8641,Trailer,21,Market,Bhilai Steel Plant,Available,Driver-1040
+VEH-1040,MH-14-BA-2158,Flatbed,18,Owned,"Chennai, Tamil Nadu",Available,Driver-1003
+VEH-1041,MH-76-CA-9121,LCV,19,Attached,Bhilai Steel Plant,Driver Rest,Driver-1017
+VEH-1042,WB-85-CA-9849,HCV,21,Market,"Bengaluru, Karnataka",Driver Rest,Driver-1039
+VEH-1043,UP-95-CB-3218,Covered,19,Owned,Tata Steel Jamshedpur,Under Maintenance,Driver-1080
+VEH-1044,UP-17-CA-3992,Open,18,Attached,"Bengaluru, Karnataka",On Trip,Driver-1004
+VEH-1045,KA-64-BB-2676,Trailer,25,Market,"Pune, Maharashtra",Driver Rest,Driver-1017

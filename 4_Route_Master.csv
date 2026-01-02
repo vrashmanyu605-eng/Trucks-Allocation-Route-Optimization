@@ -1,0 +1,39 @@
+Route_ID,Route_Name,Origin_Code,Origin_Name,Destination,Standard_Distance_Km,Estimated_Travel_Time_Hrs,Avg_Toll_Cost_INR,Return_Load_Probability_Percent,Risk_Level
+R-001,Tata-Mumbai,LP-JAM-01,Tata Steel Jamshedpur,"Mumbai, Maharashtra",2748,48.2,4033,30,High
+R-002,Kolkata-Delhi NCR,LP-KOL-02,Kolkata Steel Depot,Delhi NCR,2067,40.9,1817,33,Very High
+R-003,Durgapur-Pune,LP-DUR-03,Durgapur Steel,"Pune, Maharashtra",1912,41.6,1811,56,Very High
+R-004,Rourkela-Chennai,LP-RKL-04,Rourkela Steel Plant,"Chennai, Tamil Nadu",2095,48.0,3955,55,High
+R-005,Bhilai-Bengaluru,LP-BHI-05,Bhilai Steel Plant,"Bengaluru, Karnataka",2387,53.7,4469,69,High
+R-006,Visakhapatnam-Hyderabad,LP-VSP-06,Visakhapatnam Steel,"Hyderabad, Telangana",447,9.5,3058,59,High
+R-007,Tata-Ahmedabad,LP-JAM-01,Tata Steel Jamshedpur,"Ahmedabad, Gujarat",913,17.1,3102,42,Low
+R-008,Kolkata-Jaipur,LP-KOL-02,Kolkata Steel Depot,"Jaipur, Rajasthan",1215,24.4,4334,48,Very High
+R-009,Durgapur-Lucknow,LP-DUR-03,Durgapur Steel,"Lucknow, Uttar Pradesh",817,19.4,3832,59,Very High
+R-010,Rourkela-Coimbatore,LP-RKL-04,Rourkela Steel Plant,"Coimbatore, Tamil Nadu",1224,23.4,2100,59,High
+R-011,Bhilai-Surat,LP-BHI-05,Bhilai Steel Plant,"Surat, Gujarat",674,14.8,2152,64,Medium
+R-012,Visakhapatnam-Indore,LP-VSP-06,Visakhapatnam Steel,"Indore, Madhya Pradesh",604,13.6,3166,67,Low
+R-013,Tata-Mumbai,LP-JAM-01,Tata Steel Jamshedpur,"Mumbai, Maharashtra",2839,62.8,3783,40,Medium
+R-014,Kolkata-Delhi NCR,LP-KOL-02,Kolkata Steel Depot,Delhi NCR,2302,54.0,3021,39,High
+R-015,Durgapur-Pune,LP-DUR-03,Durgapur Steel,"Pune, Maharashtra",1691,36.4,3637,46,Low
+R-016,Rourkela-Chennai,LP-RKL-04,Rourkela Steel Plant,"Chennai, Tamil Nadu",1529,30.6,1905,56,Very High
+R-017,Bhilai-Bengaluru,LP-BHI-05,Bhilai Steel Plant,"Bengaluru, Karnataka",947,17.4,3091,32,Low
+R-018,Visakhapatnam-Hyderabad,LP-VSP-06,Visakhapatnam Steel,"Hyderabad, Telangana",2346,48.3,2112,66,Low
+R-019,Tata-Ahmedabad,LP-JAM-01,Tata Steel Jamshedpur,"Ahmedabad, Gujarat",2350,45.1,4618,63,High
+R-020,Kolkata-Jaipur,LP-KOL-02,Kolkata Steel Depot,"Jaipur, Rajasthan",787,15.8,2778,70,Medium
+R-021,Durgapur-Lucknow,LP-DUR-03,Durgapur Steel,"Lucknow, Uttar Pradesh",2624,51.0,2121,45,High
+R-022,Rourkela-Coimbatore,LP-RKL-04,Rourkela Steel Plant,"Coimbatore, Tamil Nadu",1990,44.1,2847,30,Low
+R-023,Bhilai-Surat,LP-BHI-05,Bhilai Steel Plant,"Surat, Gujarat",2706,49.5,3884,28,High
+R-024,Visakhapatnam-Indore,LP-VSP-06,Visakhapatnam Steel,"Indore, Madhya Pradesh",1838,36.2,2123,34,High
+R-025,Tata-Mumbai,LP-JAM-01,Tata Steel Jamshedpur,"Mumbai, Maharashtra",2270,49.2,4742,67,Very High
+R-026,Kolkata-Delhi NCR,LP-KOL-02,Kolkata Steel Depot,Delhi NCR,1918,41.7,4529,35,Very High
+R-027,Durgapur-Pune,LP-DUR-03,Durgapur Steel,"Pune, Maharashtra",612,11.7,3736,28,Low
+R-028,Rourkela-Chennai,LP-RKL-04,Rourkela Steel Plant,"Chennai, Tamil Nadu",1587,37.6,2806,28,High
+R-029,Bhilai-Bengaluru,LP-BHI-05,Bhilai Steel Plant,"Bengaluru, Karnataka",1726,30.7,2280,62,High
+R-030,Visakhapatnam-Hyderabad,LP-VSP-06,Visakhapatnam Steel,"Hyderabad, Telangana",495,8.5,2818,66,Medium
+R-031,Tata-Ahmedabad,LP-JAM-01,Tata Steel Jamshedpur,"Ahmedabad, Gujarat",1149,26.5,4010,29,Medium
+R-032,Kolkata-Jaipur,LP-KOL-02,Kolkata Steel Depot,"Jaipur, Rajasthan",2830,58.8,2456,30,Medium
+R-033,Durgapur-Lucknow,LP-DUR-03,Durgapur Steel,"Lucknow, Uttar Pradesh",2524,52.6,4028,63,Very High
+R-034,Rourkela-Coimbatore,LP-RKL-04,Rourkela Steel Plant,"Coimbatore, Tamil Nadu",1561,30.0,4640,29,Very High
+R-035,Bhilai-Surat,LP-BHI-05,Bhilai Steel Plant,"Surat, Gujarat",2607,51.5,2420,53,High
+R-036,Visakhapatnam-Indore,LP-VSP-06,Visakhapatnam Steel,"Indore, Madhya Pradesh",1064,20.6,3184,33,Very High
+R-037,Tata-Mumbai,LP-JAM-01,Tata Steel Jamshedpur,"Mumbai, Maharashtra",1577,29.7,4705,66,Medium
+R-038,Kolkata-Delhi NCR,LP-KOL-02,Kolkata Steel Depot,Delhi NCR,1254,23.4,3203,54,Medium
